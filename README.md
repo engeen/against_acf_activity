@@ -15,3 +15,4 @@ https://x.com/angryexpat/status/1850652414992400500
 
 -----------------------
 1. Юрий Новиков, engineer, CTO, CEO
+2. Вася
